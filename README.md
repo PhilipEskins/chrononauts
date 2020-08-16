@@ -1,4 +1,4 @@
-App to replicate the card game Chrononaughts from Looney Labs.
+App to replicate the card game Chrononauts from Looney Labs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
